@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-leap-day
 
 
 # kramdown : markdown의 개조판.
