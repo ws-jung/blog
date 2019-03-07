@@ -1,35 +1,4 @@
-# Jekyll configuration
-
-theme: jekyll-theme-leap-day
-
-
-# kramdown : markdown의 개조판.
-# markdown에서 불편한 사항을 개선한 형태.
-markdown: kramdown
-
-
-# text highlighter로 rouge이용
-# 2016.02월 이후로 syntax highlighter는 rouge만 지원.
-# Pygments 사용불가.
-highlighter: rouge
-
-
-# 작성한 모든 post를 하나의 페이지에 열거할 수 없으니
-# pagination이 필요하고 몇개의 post를 하나의 page에서
-# 보여줄 건지를 설정.
-paginate: 10
-
-
-# 언어 설정
-language: 'en-uk'
-
-
-# Website info
 title: 판교가
-
-
-# blog home에 표시될 blog에 대한 전반적인 설명.
-description: 개인적인 블로그입니다.
-
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
