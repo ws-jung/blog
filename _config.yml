@@ -30,3 +30,6 @@ title: 판교가
 
 # blog home에 표시될 blog에 대한 전반적인 설명.
 description: 개인적인 블로그입니다.
+
+github:
+  is_project_page: false
