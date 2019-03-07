@@ -1,5 +1,4 @@
 title: 판교가
 theme: jekyll-theme-midnight
-site:
-  show_downloads: false
-  hide_top_bar: true
+show_downloads: false
+hide_top_bar: true
